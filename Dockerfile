@@ -1,4 +1,4 @@
-FROM jfloff/alpine-python:3.4-slim
+FROM jfloff/alpine-python:3.8-slim
 
 LABEL maintainer=buurman WORKDIR=/opt/autosub-master
 
